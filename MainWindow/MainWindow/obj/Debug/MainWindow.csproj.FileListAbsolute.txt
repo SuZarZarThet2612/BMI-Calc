@@ -1,0 +1,48 @@
+c:\users\user\documents\visual studio 2015\Projects\MainWindow\MainWindow\bin\Debug\MainWindow.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MainWindow\MainWindow\obj\Debug\MainWindow.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MainWindow\MainWindow\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\MainWindow\MainWindow\obj\Debug\MainWindow_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\MainWindow\MainWindow\obj\Debug\MainWindow_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\MainWindow\MainWindow\bin\Debug\MainWindow.exe
+c:\users\user\documents\visual studio 2015\Projects\MainWindow\MainWindow\bin\Debug\MainWindow.pdb
+c:\users\user\documents\visual studio 2015\Projects\MainWindow\MainWindow\obj\Debug\Main.g.cs
+c:\users\user\documents\visual studio 2015\Projects\MainWindow\MainWindow\obj\Debug\Main.baml
+c:\users\user\documents\visual studio 2015\Projects\MainWindow\MainWindow\obj\Debug\MainWindow.g.resources
+c:\users\user\documents\visual studio 2015\Projects\MainWindow\MainWindow\obj\Debug\MainWindow.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\MainWindow\MainWindow\obj\Debug\MainWindow.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\MainWindow\MainWindow\obj\Debug\MainWindow.exe
+c:\users\user\documents\visual studio 2015\Projects\MainWindow\MainWindow\obj\Debug\MainWindow.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\MainWindow\MainWindow\obj\Debug\RegContents.g.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\MainWindow\MainWindow\obj\Debug\RegContents.baml
+C:\Users\User\Documents\Visual Studio 2015\Projects\MainWindow\MainWindow\obj\Debug\SearchContents.g.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\MainWindow\MainWindow\obj\Debug\SearchContents.baml
+C:\Users\User\Documents\Visual Studio 2015\Projects\MainWindow\MainWindow\obj\Debug\UpdateContents.g.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\MainWindow\MainWindow\obj\Debug\UpdateContents.baml
+C:\Users\User\Documents\Visual Studio 2015\Projects\MainWindow\MainWindow\obj\Debug\ApmContents.g.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\MainWindow\MainWindow\obj\Debug\BillContents.g.cs
+C:\Users\User\Documents\Visual Studio 2015\Projects\MainWindow\MainWindow\obj\Debug\ApmContents.baml
+C:\Users\User\Documents\Visual Studio 2015\Projects\MainWindow\MainWindow\obj\Debug\BillContents.baml
+D:\Main\MainWindow\MainWindow\bin\Debug\MainWindow.exe.config
+D:\Main\MainWindow\MainWindow\obj\Debug\MainWindow.exe
+D:\Main\MainWindow\MainWindow\obj\Debug\MainWindow.pdb
+D:\Main\MainWindow\MainWindow\bin\Debug\MainWindow.exe
+D:\Main\MainWindow\MainWindow\bin\Debug\MainWindow.pdb
+D:\Main\MainWindow\MainWindow\obj\Debug\MainWindow.csprojResolveAssemblyReference.cache
+D:\Main\MainWindow\MainWindow\obj\Debug\ApmContents.g.cs
+D:\Main\MainWindow\MainWindow\obj\Debug\BillContents.g.cs
+D:\Main\MainWindow\MainWindow\obj\Debug\Main.g.cs
+D:\Main\MainWindow\MainWindow\obj\Debug\RegContents.g.cs
+D:\Main\MainWindow\MainWindow\obj\Debug\SearchContents.g.cs
+D:\Main\MainWindow\MainWindow\obj\Debug\UpdateContents.g.cs
+D:\Main\MainWindow\MainWindow\obj\Debug\App.g.cs
+D:\Main\MainWindow\MainWindow\obj\Debug\MainWindow_MarkupCompile.cache
+D:\Main\MainWindow\MainWindow\obj\Debug\MainWindow_MarkupCompile.lref
+D:\Main\MainWindow\MainWindow\obj\Debug\ApmContents.baml
+D:\Main\MainWindow\MainWindow\obj\Debug\BillContents.baml
+D:\Main\MainWindow\MainWindow\obj\Debug\Main.baml
+D:\Main\MainWindow\MainWindow\obj\Debug\RegContents.baml
+D:\Main\MainWindow\MainWindow\obj\Debug\SearchContents.baml
+D:\Main\MainWindow\MainWindow\obj\Debug\UpdateContents.baml
+D:\Main\MainWindow\MainWindow\obj\Debug\MainWindow.g.resources
+D:\Main\MainWindow\MainWindow\obj\Debug\MainWindow.Properties.Resources.resources
+D:\Main\MainWindow\MainWindow\obj\Debug\MainWindow.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">User Form</string>
+    <string name="men">Male</string>
+    <string name="women">Female</string>
+    <string name="todo">TODO</string>
+    <string name="age">Age</string>
+    <string name="save">Save</string>
+    <string name="we">Weight</string>
+    <string name="he">Height</string>
+    <string name="gender">Select Gender</string>
+    <string name="userage">Age</string>
+    <string name="userheight">Height</string>
+    <string name="store">Save</string>
+    <string name="userweight">Weight</string>
+    <string name="actuser">Name:</string>
+</resources>
